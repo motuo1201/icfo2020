@@ -1,0 +1,72 @@
+p {
+    font-size: 24px;
+    margin: auto;
+    text-align: left;
+}
+li {
+  font-size: 28px;
+  margin: auto;
+  text-align: left; 
+}
+.ame-tal--k {
+    width: 150px;
+    height: 150px;
+    border-radius: 100% 0 0 0;
+  
+    /*/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/
+  
+  For "Microsoft" MODERN WEB BROWSER
+  
+  /_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_*/
+    background: -ms-radial-gradient(
+      bottom right,
+      circle farthest-side,
+      #fff,
+      #fff 10%,
+      #f5eb2e 10%,
+      #f5eb2e 20%,
+      #e26c16 20%,
+      #e26c16 35%,
+      #db007b 35%,
+      #db007b 55%,
+      #a766a1 55%,
+      #a766a1 75%,
+      #38a9e1 75%,
+      #38a9e1 100%
+    );
+  
+    /* Webkit */
+    background: -webkit-radial-gradient(
+      bottom right,
+      circle farthest-side,
+      #fff,
+      #fff 10%,
+      #f5eb2e 10%,
+      #f5eb2e 20%,
+      #e26c16 20%,
+      #e26c16 40%,
+      #db007b 40%,
+      #db007b 60%,
+      #a766a1 60%,
+      #a766a1 80%,
+      #38a9e1 80%,
+      #38a9e1 100%
+    );
+  
+    background: radial-gradient(
+      bottom right,
+      circle farthest-side,
+      #fff,
+      #fff 10%,
+      #f5eb2e 10%,
+      #f5eb2e 20%,
+      #e26c16 20%,
+      #e26c16 40%,
+      #db007b 40%,
+      #db007b 60%,
+      #a766a1 60%,
+      #a766a1 80%,
+      #38a9e1 80%,
+      #38a9e1 100%
+    );
+  }
